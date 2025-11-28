@@ -1,11 +1,16 @@
-# Hi, I’m Sagar Dodiya
+# Hello, I’m Sagar Dodiya 👋🏻
 
-Full-stack developer | JavaScript, TypeScript, React, Node.js | Design. Animate. Deliver.
+Learner • Full-stack Web developer • Open for Collaboration
 
-## About Me
+## 🤓 About Me
 
-As an experienced full-stack developer, I’ve learned that creating software is more than just writing code; it requires understanding real-world problems and designing scalable, efficient solutions. I enjoy building high-quality applications that balance clean architecture, performance, and great user experiences.
+I'm a full-stack web developer based in **India**, specializing in building modern, high-performance websites and applications using **JavaScript technologies**. I focus on writing clean, scalable code and developing reusable UI components that deliver real value.
 
-## Tech Stack
+## 🫱🏻‍🫲🏻 Let's Collaborate
 
-`JavaScript` `Typescript` `React.js` `Next.js` `Node.js` `Express.js` `Nest.js` `MongoDB` `PostgreSQL` `MariaDB` `Mongoose` `Prisma` `Figma` `Tailwind CSS` `Material UI (MUI)` `Bootstrap` `Git`
+- I’m open to working on new or ongoing web application projects, whether it’s frontend, backend, or full-stack development.
+- Open to brainstorming ideas, developing a scalable product, or collaborating on projects of any size, I’d love to connect and work together.
+
+## 🔗 Let's Connect
+
+### [LinkedIn](https://www.linkedin.com/in/sagar-dodiya/) • [Reddit](https://www.reddit.com/user/sagardodiya/)
